@@ -33,10 +33,5 @@ int main()
 	return 0;
 }
 
-/*
-int _tmain(int argc, _TCHAR* argv[])
-{
-	return 0;
-}
-*/
+
 
